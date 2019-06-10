@@ -46,7 +46,7 @@
 3. pre-wrap; // preserve + wrap, 保留html中换行 + 自动换行    
    pre-line; // preserve + wrap + new line, 保留html中换行 + 自动换行 + new line
 * 差别： pre-wrap vs pre-line   
-<img src="./imgs/4.png" width="250" height="150">  --- 
+<img src="./imgs/4.png" width="250" height="150"> ---
 <img src="./imgs/5.png" width="250" height="150">
 
 ## word-break： normal
