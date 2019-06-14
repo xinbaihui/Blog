@@ -3,5 +3,4 @@
   title: First Blog
 ---
 
-## first
-## second
+There is nothing.
