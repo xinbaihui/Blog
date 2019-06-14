@@ -4,7 +4,7 @@
 
 过一遍，记忆&理解
 
-```、、
+```
 // html
 <div id="box">
   Hi&nbsp;&nbsp;&nbsp;,
