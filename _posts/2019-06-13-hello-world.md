@@ -3,5 +3,5 @@
   title: First Blog
 ---
 
-## fitst
+## first
 ## second
